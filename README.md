@@ -1,4 +1,4 @@
-# Python-script-for-Ubiquiti-Powerbeam-M5
+# Python script for Ubiquiti Powerbeam M5
 
 This script reboots Ubiquiti powerbeam M5 devices connecting via ssh.
 
